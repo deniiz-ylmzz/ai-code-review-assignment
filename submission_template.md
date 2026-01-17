@@ -103,7 +103,7 @@ If you were to test this function, what areas or scenarios would you focus on, a
 ## 4) Final Judgment
 - Decision: Reject
 - Justification: The implementation only handes one case out of thousands.
-- Confidence & unknowns: After 
+- Confidence & unknowns: After the corrections, the implementaion handles a variety of cases properly.
 
 ---
 
