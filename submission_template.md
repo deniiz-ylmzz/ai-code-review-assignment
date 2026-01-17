@@ -132,7 +132,8 @@ See `correct_task3.py`
 
 ### Testing Considerations
 If you were to test this function, what areas or scenarios would you focus on, and why?
-
+- Empty lists.
+- List with non-numerical elements.
 
 ## 3) Explanation Review & Rewrite
 ### AI-generated explanation (original)
